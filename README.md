@@ -1,5 +1,5 @@
 ## Hi, I'm Breno Oliveira 👋
-<p><em> Technical Solutions Architect at <a target="_blank" rel="noopener noreferrer" href="https://www.yoobot.com.br"><img src="https://i.imgur.com/IEcw1jv.png" alt="Yoobot" width="50" /></a></em></p>
+
 <!-- <p><em> Graduating in Computer Engineering at <a target="_blank"rel="noopener noreferrer" href="https://unifei.edu.br/" >UNIFEI <a><img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif"width="50"/></em></p> -->
 
 I'm a software engineer who loves design, creative environments and the process of creating products. Since I was young I've always been fascinated by technology and how you can impact "normal people" lives through simple and beautiful interactions.

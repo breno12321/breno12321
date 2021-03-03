@@ -34,8 +34,6 @@ Knowing that, I always challange myself to bring solutions and work on problems 
 * DevOps
 * Cloud Architecture 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=breno12321&count_private=true&show_icons=true&include_all_commits=true)
-
 ## Where Can you find me 📫
 [![Linkedin: brenoo12321](https://img.shields.io/badge/-breno12321-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenoo12321/)](https://www.linkedin.com/in/brenoo12321/)
 [![Gmail Badge](https://img.shields.io/badge/-breno.salgado05@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:breno.salgado05@gmail.com)](mailto:breno.salgado05@gmail.com)

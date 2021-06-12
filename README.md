@@ -24,16 +24,11 @@ Knowing that, I always challange myself to bring solutions and work on problems 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
-## What I've been working on my spare time
-
-- [Med Anvisa Price](https://github.com/breno12321/medAnvisaPrice): A simple application to consume easily registered medications and their final price with tax in Brazil.
-- Med Care: My bachelor's thesis for and application that help patients with their medical adherence to treatments. Yep, Med Anvisa is child of this😅.
-
 ## Things I'm interested in 🤔?
 * UX | UI and design driven experiences
-* Application monitoring
-* DevOps
-* Cloud Architecture 
+* Solutions Architecture 
+* Product driven teams
+* Functional Programming
 
 ## Where Can you find me 📫
 [![Linkedin: brenoo12321](https://img.shields.io/badge/-breno12321-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenoo12321/)](https://www.linkedin.com/in/brenoo12321/)
